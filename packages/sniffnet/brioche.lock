@@ -1,15 +1,13 @@
 {
   "dependencies": {
-    "alsa_lib": "18cde6db39b9db7bcb4a1843e30a8fba01182c993a21581efccf4cf74c758a7f",
-    "git": "c6a0933fd07b4ecd83b10b99b627d02bca9f88ad250486f0add80a39b369ade4",
-    "libpcap": "51a3c1683a174e2dbbce037e4e66c2d7239cc5e5a833eed4d016e8cb9e23ef57",
-    "nushell": "cac8de45d6d5a5e4c97c1234a2da434caec3e5d8a4d944f8b70b3c6ffbf228a1",
-    "rust": "57076eb315dd167760cde517d69a5a62b3c651435dc5e5036ebcb5ad4e21b22b",
-    "std": "6f9c8866c2091ed4cb4bcd66a30fca7b6e6c61a838e065e4458a7e2d485b128b"
+    "alsa_lib": "91b8ab58833c716eb1cf7639be823df7dfba8631f4fe39b08984f8cd31fb59b7",
+    "libpcap": "ca75c7881adeac93a05b7188e7a35d6acdb361636250fa5b83c03c7acba1a7d2",
+    "rust": "662ce9f86b5e76f93e10d3ded138c151e9ecf7712fb68d8e96973232e0d1ca8f",
+    "std": "0aba0ceccaa76b989badef4c82178993f9a74e992b4f13b366174af58ce64aaf"
   },
   "git_refs": {
     "https://github.com/GyulyVGC/sniffnet.git": {
-      "v1.3.1": "ecb20f62d3475112105b4210b2cba5a652a08f16"
+      "v1.4.0": "069a7bd314483e7639c7078d47c77a9308832715"
     }
   }
 }
